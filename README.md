@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @ollyontheboard
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Olisah Opiah
+- 👀 I’m interested in Android and Cross-platform Mobile Development
+- 🌱 I’m currently learning Kotlin and improving my skills as an intermediate android developer
+- 💞️ I’m looking to collaborate on mobile applications and improve my skills as a developer 
+- 📫 How to reach me twitter.com/ollyontheboard instagram.com/ollyontheboard
 
 <!---
 ollyontheboard/ollyontheboard is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
